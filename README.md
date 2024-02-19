@@ -46,7 +46,7 @@ You can play a live demo of the game [here](#).
 
 ## Credits
 
-This project was inspired by the original Wordle game.
+This project was inspired by the original Wordle game. Code was inspired by WebDevSimplified (https://www.youtube.com/watch?v=Wak7iN4JZzU&t=1260s)
 
 ## Contribution
 
